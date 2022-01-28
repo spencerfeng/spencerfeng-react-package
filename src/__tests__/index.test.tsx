@@ -6,6 +6,6 @@ import { ReactPackage } from '../index'
 describe('ReactPackage', () => {
 	it('should display the text correctly', () => {
 		const { queryByText } = render(<ReactPackage />)
-		expect(queryByText('My React Package 7')).toBeInTheDocument()
+		expect(queryByText('My React Package 8')).toBeInTheDocument()
 	})
 })
