@@ -1,4 +1,4 @@
-# My React Package
+# Spencerfeng React Package
 
 ## This is a base template that can be used for building a custom React Package.
 
@@ -41,5 +41,5 @@ npm link
 In the root of the React app where you want to use this package, run
 
 ```bash
-npm link my-react-package
+npm link spencerfeng-react-package
 ```
